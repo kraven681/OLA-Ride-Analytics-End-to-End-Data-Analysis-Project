@@ -43,7 +43,7 @@ Dataset Name
 Supporting Files
 
 -   [ola project.sql](https://github.com/user-attachments/files/30012639/ola.project.sql)
--  
+-   Ola.pbix
 
 Time Period
 
@@ -87,23 +87,23 @@ Dataset Size
 
 ### Overall Dashboard
 
-![Overall](images/overall_dashboard.png)
+<img width="1204" height="751" alt="Screenshot 2026-05-01 170226" src="https://github.com/user-attachments/assets/90c8197e-140d-460e-b17b-fb616bac2b61" />
 
 ### Vehicle Type Dashboard
 
-![Vehicle](images/vehicle_dashboard.png)
+<img width="1147" height="705" alt="Screenshot 2026-05-01 170249" src="https://github.com/user-attachments/assets/f2259f0c-25b3-4ec9-97d5-588b6c4b4ed3" />
 
 ### Revenue Dashboard
 
-![Revenue](images/revenue_dashboard.png)
+<img width="1412" height="726" alt="Screenshot 2026-07-14 215313" src="https://github.com/user-attachments/assets/c8fe2073-c41d-4cf5-93f9-79bd14840a4c" />
 
 ### Cancellation Dashboard
 
-![Cancellation](images/cancellation_dashboard.png)
+<img width="1161" height="700" alt="Screenshot 2026-05-01 170309" src="https://github.com/user-attachments/assets/aeefaee0-6b38-4ff3-952b-4178174b394e" />
 
 ### Ratings Dashboard
 
-![Ratings](images/ratings_dashboard.png)
+<img width="1136" height="667" alt="Screenshot 2026-05-01 170326" src="https://github.com/user-attachments/assets/558efa2d-e701-4784-9515-037148755602" />
 
 ## How to Run This Project
 
